@@ -1,0 +1,82 @@
+html, body {
+  height: 100%;
+}
+
+body {
+display: flex;
+justify-content: center;
+align-items: center;
+background-color: #F0F0F0;
+margin: 0;
+}
+
+h1 {
+  width: 100%;
+  font-size: 1.5rem;
+  color: #151515;
+  text-align: center;
+}
+
+.form-container {
+  width: 400px;
+  height: 450px;
+  display: flex;
+  flex-direction: column;
+  justify-content: stretch;
+  align-items: stretch;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 60px;
+  padding-bottom: 40px;
+  background-color: white;
+  border-radius: 20px;
+}
+
+.form-container.submitted {
+  height: 600px;
+}
+
+form {
+  width: 100%;
+  height: 100%;
+}
+
+.input {
+  width: 99%;
+  height: 30px;
+  margin-bottom: 10px;
+  border: 1px solid #a9a9a9;
+  border-radius: 5px;
+}
+
+button {
+  width: 100%;
+  height: 40px;
+  margin-top: 20px;
+  color: white;
+  font-size: 1rem;
+  font-weight: 600;
+  background-color: #3a3aff;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+button:hover,
+button:active {
+  background-color:	#0000ff;
+}
+
+.confirmation {
+  margin-top: 10px;
+}
+
+.confirmation-title {
+  text-align: start;
+  color: #3a3aff;
+}
+
+.confirmation-label {
+  font-weight: 600;
+}
