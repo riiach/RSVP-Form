@@ -40,3 +40,13 @@ A lightweight Event RSVP form built with **React 18** using **CDN scripts** (no 
 ├── index.jsx
 └── assets/
     └── preview.png
+
+---
+
+## 👤 Author
+
+**Ria Choi**
+💼 www.linkedin.com/in/ria-choi-76a658309
+📧 riiachoii@gmail.com
+
+If you like this project, consider ⭐ starring the repo!
