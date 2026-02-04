@@ -6,7 +6,7 @@ A lightweight Event RSVP form built with **React 18** using **CDN scripts** (no 
 
 ## Live Website
 
-🔗 https://darkgrey-beaver-446774.hostingersite.com/
+🔗 https://riiach.github.io/RSVP-Form/
 
 ---
 
