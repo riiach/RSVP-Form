@@ -40,7 +40,7 @@ A lightweight Event RSVP form built with **React 18** using **CDN scripts** (no 
 ├── index.jsx
 └── assets/
     └── preview.png
-
+```
 ---
 
 ## 👤 Author
