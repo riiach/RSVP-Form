@@ -4,6 +4,12 @@ A lightweight Event RSVP form built with **React 18** using **CDN scripts** (no 
 
 ---
 
+## Live Website
+
+🔗 https://darkgrey-beaver-446774.hostingersite.com/
+
+---
+
 ## Preview
 
 ![Event RSVP Form Preview](assets/preview.png)
